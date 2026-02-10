@@ -1,0 +1,4 @@
+drivers/chromedriver.exe
+__pycache__/
+.pytest_cache/
+*.pyc
