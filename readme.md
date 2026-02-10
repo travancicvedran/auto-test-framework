@@ -9,6 +9,7 @@ Projekt za kolegij Metode i tehnike testiranja programske podrške.
 - Okvir za automatizaciju preglednika: **Selenium WebDriver**
 - Okvir za testiranje: **Pytest**
 - IDE: **VS Code**
+- Preglednik: **Google Chrome Verzija 144.0.7559.133**
 - Page Object Model (POM)
 - Wait naredbe u Selenium WebDriveru
 
